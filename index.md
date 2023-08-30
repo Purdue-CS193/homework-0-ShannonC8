@@ -1,7 +1,8 @@
 #Shannon's first CS193 Homework
 
--Funny memes
--Good teachers
--Fun Projects
+##My favorite things about CS193
+- Funny memes
+- Good teachers
+- Fun Projects
 
 
